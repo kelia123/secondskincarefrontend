@@ -1,6 +1,6 @@
 import React from "react";
 import "./DashboardLayout.css";
-import { MenuOutlined,ShoppingCartOutlined, TeamOutlined,AppstoreOutlined,MessageOutlined,BarChartOutlined,FolderOpenOutlined,ImportOutlined  } from '@ant-design/icons';
+import { MenuOutlined,ShoppingCartOutlined, TeamOutlined,AppstoreOutlined,BarChartOutlined,FolderOpenOutlined,ImportOutlined  } from '@ant-design/icons';
 import photo from "../Assets/img/logo.png"
 
 
