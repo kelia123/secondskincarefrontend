@@ -1,0 +1,85 @@
+[
+    {
+<<<<<<< HEAD
+       "First-Name": " jane",
+       "Last-Name": "neza",
+       "Email adress": "jane@gmail.com",
+       "Address":"Kicukiro",
+       "Telephone": "0783455798",
+       "Status":"activate"
+    },
+    {
+        "First-Name": " alliane",
+        "Last-Name": "keza",
+        "Email adress": "allianekeza@gmail.com",
+        "Address": "kicukiro",
+        "Telephone": "0783455768",
+        "Status":"disactivated"
+      },
+      {
+        "First-Name": " kevine",
+        "Last-Name": "ishimwe",
+        "Email adress": "kevine@gmail.com",
+        "Address": "kanombe",
+        "Telephone": "0783455768",
+        "Status":"disactivated"
+      },
+      {
+        "First-Name": " alice",
+        "Last-Name": "ineza",
+        "Email adress": "alice@gmail.com",
+        "Address": "gisozi",
+        "Telephone": "0783455700",
+        "Status":"activate"
+      },
+      {
+        "First-Name": " aline",
+        "Last-Name": "keza",
+        "Email adress": "aline@gmil.com",
+        "Address": "kanombe",
+        "Telephone": "07834557480",
+        "Status":"activate"
+      }
+]
+=======
+       "fistName": " jane",
+       "lastName": "neza",
+       "email": "jane@gmail.com",
+       "address":"Kicukiro",
+       "phone": "0783455798",
+       "Status":"activate"
+    },
+    {
+        "fistName": " alliane",
+        "lastName": "keza",
+        "email": "allianekeza@gmail.com",
+        "address": "kicukiro",
+        "phone": "0783455768",
+        "Status":"disactivated"
+      },
+      {
+        "fistName": " kevine",
+        "lastName": "ishimwe",
+        "email": "kevine@gmail.com",
+        "address": "kanombe",
+        "phone": "0783455768",
+        "Status":"disactivated"
+      },
+      {
+        "fistName": " alice",
+        "lastName": "ineza",
+        "email": "alice@gmail.com",
+        "address": "gisozi",
+        "phone": "0783455700",
+        "Status":"activate"
+      },
+      {
+        "fistName": " aline",
+        "lastName": "keza",
+        "email": "aline@gmil.com",
+        "address": "kanombe",
+        "phone": "07834557480",
+        "Status":"activate"
+      }
+]
+>>>>>>> a9259619ffb6fbdf63f6ac94f18a9835e6fccaf7
